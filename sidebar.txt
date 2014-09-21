@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dz:home|Door43 (dz)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[dz:obs|Open Bible Stories (dz)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dz|d43-dz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dz/archive/master.zip|d43-dz.zip]]
+
+**Recent Changes**
+{{changes>ns = dz}}
+
+**Latest Status**
+{{page>en:uwadmin:dz:obs:status}}
+
